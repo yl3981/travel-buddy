@@ -6,3 +6,5 @@
   <button type="button" class="btn btn-primary">photography</button>
   <button type="button" class="btn btn-primary">nightlife</button>
   <button type="button" class="btn btn-primary">outdoor adventures</button>
+
+</activity>
