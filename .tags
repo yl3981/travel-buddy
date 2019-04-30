@@ -1,0 +1,16 @@
+html	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+title	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^    <title>Find your travel Buddy<\/title>$/;"	function	line:5
+link	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^    <link rel="stylesheet" href="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.2.1\/css\/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">$/;"	function	line:7
+link	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^		<link rel="stylesheet" href=".\/styles\/styles.css">$/;"	function	line:8
+body	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^  <body>$/;"	function	line:10
+app	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<app><\/app>$/;"	function	line:13
+script	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<script src=".\/tags\/app.tag" type="riot\/tag"><\/script>$/;"	function	line:16
+script	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<script src=".\/tags\/navbar.tag" type="riot\/tag"><\/script>$/;"	function	line:17
+script	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<script src="https:\/\/code.jquery.com\/jquery-3.3.1.slim.min.js" integrity="sha384-q8i\/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"><\/script>$/;"	function	line:20
+script	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/popper.js\/1.14.6\/umd\/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ\/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"><\/script>$/;"	function	line:21
+script	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<script src="https:\/\/stackpath.bootstrapcdn.com\/bootstrap\/4.2.1\/js\/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U\/mkkaduKaBhlAXv9k" crossorigin="anonymous"><\/script>$/;"	function	line:22
+script	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/riot\/3.13.2\/riot+compiler.js"><\/script>$/;"	function	line:23
+script	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^<script src="https:\/\/www.gstatic.com\/firebasejs\/5.10.1\/firebase.js"><\/script>$/;"	function	line:24
+script	/Users/qiyao/Downloads/2019 Spring/MSTU 5013/Github-repository/travel-buddy/index.html	/^   <script>$/;"	function	line:25
